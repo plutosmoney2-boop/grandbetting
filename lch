@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Лига чемпионов — онлайн-трансляции 26 ноября 2025</title>
+    <meta name="description" content="Все прямые онлайн-трансляции футбольных матчей Лиги чемпионов 26 ноября 2025. Подробная афиша, расписание, аналитика, фото и ссылки на прямой эфир.">
+    <meta name="keywords" content="лига чемпионов, футбол онлайн, трансляция, Арсенал, Бавария, ПСЖ, Реал Мадрид, Ливерпуль, смотреть матч, расписание">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; background:#eef2f7; margin:0; }
+        header { background:#0033a1; color:#fff; padding:35px 0 16px 0; text-align:center; border-radius:0 0 30px 30px; box-shadow:0 5px 32px #bbc3ce;}
+        header h1 { font-size:2.2em; margin:0 0 8px 0; letter-spacing:2px; }
+        header p { font-size:1.1em; margin:0; opacity:0.88;}
+        .container { max-width:1000px; margin:38px auto; padding:0 18px;}
+        .seo-text { background:#fff; border-radius:18px; box-shadow:0 2px 8px #ddd; padding:22px; margin-bottom:36px; color:#333; }
+        .seo-text h2 { color:#0033a1; margin:0 0 14px 0;}
+        .matches { display:grid; grid-template-columns:repeat(auto-fit, minmax(310px, 1fr)); gap:30px;}
+        .match-box { background:#fff; border-radius:18px; box-shadow:0 2px 24px #ccd2db; padding:24px; display:flex; flex-direction:column; align-items:center;}
+        .match-box img { max-width:100%; border-radius:12px; height:180px; object-fit:cover; margin-bottom:13px;}
+        .team-names { font-size:1.2em; font-weight:600; margin-bottom:4px; }
+        .match-info { color:#0033a1; font-size:0.97em; margin-bottom:9px;}
+        .desc { font-size:0.99em; color:#565b66; margin-bottom:12px;}
+        .stream-btn { margin-top:auto; display:inline-block; background:#21c160; color:#fff; font-weight:600; padding:9px 28px; border-radius:9px; text-decoration:none; font-size:1em; box-shadow:0 3px 18px #bee2c1; transition:.2s; }
+        .stream-btn:hover { background:#148c48; }
+        footer { margin:66px 0 20px 0; text-align:center; color:#999; font-size:0.92em;}
+        @media(max-width:700px) {
+            .container { padding:0 8px;}
+            .match-box img { height:120px; }
+            .seo-text { padding:12px; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Лига чемпионов: онлайн-трансляции <br>26 ноября 2025</h1>
+        <p>Смотрите футбол онлайн, следите за результатами и главными матчами вечера</p>
+    </header>
+    <div class="container">
+        <div class="seo-text">
+            <h2>Главные трансляции ЛЧ сегодня — футбол онлайн</h2>
+            <p>Европейская Лига чемпионов: самые громкие матчи, интрига группового этапа, звездные команды и невероятные голы! Сегодня, <b>26 ноября 2025</b>, на нашем сайте собраны все прямые эфиры футбольных игр. Вас ждут подробное расписание, удобные ссылки, фотографии с арен, прогнозы и детальная аналитика. Вся информация обновляется онлайн.</p>
+            <ul>
+                <li>Эксклюзивные трансляции: смотрите бесплатно и без рекламы.</li>
+                <li>Актуальные фото, составы, результат каждого матча ЛЧ 2025.</li>
+                <li>Аналитика, прогнозы, комментарии экспертов.</li>
+                <li>Арсенал, Бавария, ПСЖ, Реал Мадрид, Ливерпуль и другие гранды — все встречи одной страницей.</li>
+            </ul>
+            <p>Добавьте сайт в закладки и оставайтесь в курсе всех событий Лиги чемпионов!</p>
+        </div>
+
+        <div class="matches">
+            <div class="match-box">
+                <img src="https://images.unsplash.com/photo-1508780709619-79562169bc64?fit=crop&w=500&q=80" alt="Копенгаген vs Кайрат">
+                <div class="team-names">Копенгаген — Кайрат</div>
+                <div class="match-info">19:45, стадион Паркен</div>
+                <div class="desc">Открытие игрового дня: датский фаворит против казахстанского бойца. Старт прямой эфир!</div>
+                <a class="stream-btn" href="#">Смотреть трансляцию</a>
+            </div>
+            <div class="match-box">
+                <img src="https://images.unsplash.com/photo-1464983953574-0892a716854b?fit=crop&w=500&q=80" alt="Пафос vs Монако">
+                <div class="team-names">Пафос — Монако</div>
+                <div class="match-info">19:45, стадион Пафос Арена</div>
+                <div class="desc">Неожиданный кипрский дебютант принимает именитых гостей из Монако. Смотрите лучшие моменты!</div>
+                <a class="stream-btn" href="#">Смотреть трансляцию</a>
+            </div>
+            <div class="match-box">
+                <img src="https://images.unsplash.com/photo-1505843513577-22081c94c80b?fit=crop&w=500&q=80" alt="Арсенал vs Бавария">
+                <div class="team-names">Арсенал — Бавария</div>
+                <div class="match-info">22:00, Эмирейтс, Лондон</div>
+                <div class="desc">Центральный матч недели: английская атака против немецкой дисциплины. Следите за голами в прямом эфире!</div>
+                <a class="stream-btn" href="#">Смотреть трансляцию</a>
+            </div>
+            <div class="match-box">
+                <img src="https://images.unsplash.com/photo-1512408495201-0076c24a79c8?fit=crop&w=500&q=80" alt="Атлетико vs Интер">
+                <div class="team-names">Атлетико — Интер</div>
+                <div class="match-info">22:00, Ванда Метрополитано, Мадрид</div>
+                <div class="desc">Испанская оборона в бою с итальянской тактикой. Каждая минута — на вес золота!</div>
+                <a class="stream-btn" href="#">Смотреть трансляцию</a>
+            </div>
+            <div class="match-box">
+                <img src="https://images.unsplash.com/photo-1521412644187-c49fa049e84d?fit=crop&w=500&q=80" alt="Айнтрахт vs Аталанта">
+                <div class="team-names">Айнтрахт — Аталанта</div>
+                <div class="match-info">22:00, Коммерцбанк Арена </div>
+                <div class="desc">Германия встречает гостей из Италии. Ожидаются опасные атаки и быстрая игра.</div>
+                <a class="stream-btn" href="#">Смотреть трансляцию</a>
+            </div>
+            <div class="match-box">
+                <img src="https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?fit=crop&w=500&q=80" alt="Ливерпуль vs ПСВ">
+                <div class="team-names">Ливерпуль — ПСВ</div>
+                <div class="match-info">22:00, Энфилд, Ливерпуль</div>
+                <div class="desc">Один из самых результативных клубов Англии выходит против нидерландской школы футбола.</div>
+                <a class="stream-btn" href="#">Смотреть трансляцию</a>
+            </div>
+            <div class="match-box">
+                <img src="https://images.unsplash.com/photo-1483728642387-f942d537460a?fit=crop&w=500&q=80" alt="Олимпиакос vs Реал Мадрид">
+                <div class="team-names">Олимпиакос — Реал Мадрид</div>
+                <div class="match-info">22:00, Караискаки, Афины</div>
+                <div class="desc">Греческие страсти против опыта королевского клуба. Не пропустите драму на поле!</div>
+                <a class="stream-btn" href="#">Смотреть трансляцию</a>
+            </div>
+            <div class="match-box">
+                <img src="https://images.unsplash.com/photo-1522626179-96e6c1a10776?fit=crop&w=500&q=80" alt="ПСЖ vs Тоттенхэм">
+                <div class="team-names">ПСЖ — Тоттенхэм</div>
+                <div class="match-info">22:00, Парк де Пренс, Париж</div>
+                <div class="desc">Парижский гламур встречает английскую энергию. Ждите много голов и эмоций!</div>
+                <a class="stream-btn" href="#">Смотреть трансляцию</a>
+            </div>
+            <div class="match-box">
+                <img src="https://images.unsplash.com/photo-1468378895620-3602c3b1c3c5?fit=crop&w=500&q=80" alt="Спортинг vs Брюгге">
+                <div class="team-names">Спортинг — Брюгге</div>
+                <div class="match-info">22:00, Жозе Алваладе, Лиссабон</div>
+                <div class="desc">Португальский стиль и бельгийская молодость встретятся в поздней трансляции дня.</div>
+                <a class="stream-btn" href="#">Смотреть трансляцию</a>
+            </div>
+        </div>
+    </div>
+    <footer>&copy; 2025 Онлайн-трансляции ЛЧ • Все права защищены • Футбол 26 ноября 2025</footer>
+</body>
+</html>
